@@ -11,9 +11,9 @@ def subtract(a, b):
     return a - b
 
 
-def multiplication(a, b):
+def multiply(a, b):
     return a * b
 
 
-def division(a, b):
+def divide(a, b):
     return a / b
